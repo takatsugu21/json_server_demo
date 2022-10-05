@@ -1,31 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Hamaie",
-    "unit": "kamaitachi"
-  },
-  {
-    "id": 2,
-    "name": "Yamauchi",
-    "unit": "kamaitachi"
-  },
-  {
-    "id": 3,
     "name": "Sasaki",
     "unit": "Shimofuri-myo-jo"
   },
   {
-    "id": 4,
+    "id": 2,
     "name": "Ishikawa",
     "unit": "Shimofuri-myo-jo"
   },
   {
-    "id": 5,
+    "id": 3,
     "name": "Hayakawa",
     "unit": "Chidori"
   },
   {
-    "id": 6,
+    "id": 4,
     "name": "Yamamoto",
     "unit": "Chidori"
   }
