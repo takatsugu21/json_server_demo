@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Sasaki",
+    "unit": "Shimofuri-myo-jo"
+  },
+  {
+    "id": 2,
+    "name": "Ishikawa",
+    "unit": "Shimofuri-myo-jo"
+  },
+  {
+    "id": 3,
+    "name": "Hayakawa",
+    "unit": "Chidori"
+  },
+  {
+    "id": 4,
+    "name": "Yamamoto",
+    "unit": "Chidori"
+  }
+]
